@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "band",
+    "name": "Musical Stuff",
+    "authors": [ "Duke Paul" ],
+    "description": "This mods adds some musical instruments.",
+    "category": "other",
+    "dependencies": [ "dda" ]
+  }
+]
