@@ -2,7 +2,7 @@
   {
     "id": "harmonica",
     "name": { "str_pl": "harmonicas", "str": "harmonica" },
-	"type": "TOOL",
+    "type": "TOOL",
     "category": "tools",
     "weight": "100 g",
     "color": "brown",
@@ -14,8 +14,26 @@
       "fun": -5,
       "fun_bonus": 2,
       "description_frequency": 20,
-      "player_descriptions": [ "You produce a happy tune on the harmonica.", "You whistle on the harmonica.", "Holding the harmonica, you drop a country-like tune around.", "You train your harmonica skills whistling some simple tunes on the harmonica.", "You train your harmonica skills whistling some regular tunes on the harmonica.", "You train your harmonica skills whistling some complex tunes on the harmonica.", "You play tunes on the harmonica resonated with nostalgia, evoking memories of better days...", "You play a cheerful melody on the harmonica, bringing a sense of normalcy, but only for a moment." ],
-      "npc_descriptions": [ "produce a happy tune on the harmonica.", "whistle on the harmonica.", "holding the harmonica, drops a country-like tune around", "train their harmonica skills whistling some simple tunes on the harmonica.", "train their harmonica skills whistling some regular tunes on the harmonica.", "train their harmonica skills whistling some complex tunes on the harmonica.", "play tunes on the harmonica, resonated with nostalgia, evoking memories of better days...", "play a cheerful melody on the harmonica, bringing a sense of normalcy, but only for a moment." ]
+      "player_descriptions": [
+        "You produce a happy tune on the harmonica.",
+        "You whistle on the harmonica.",
+        "Holding the harmonica, you drop a country-like tune around.",
+        "You train your harmonica skills whistling some simple tunes on the harmonica.",
+        "You train your harmonica skills whistling some regular tunes on the harmonica.",
+        "You train your harmonica skills whistling some complex tunes on the harmonica.",
+        "You play tunes on the harmonica resonated with nostalgia, evoking memories of better days...",
+        "You play a cheerful melody on the harmonica, bringing a sense of normalcy, but only for a moment."
+      ],
+      "npc_descriptions": [
+        "produce a happy tune on the harmonica.",
+        "whistle on the harmonica.",
+        "holding the harmonica, drops a country-like tune around",
+        "train their harmonica skills whistling some simple tunes on the harmonica.",
+        "train their harmonica skills whistling some regular tunes on the harmonica.",
+        "train their harmonica skills whistling some complex tunes on the harmonica.",
+        "play tunes on the harmonica, resonated with nostalgia, evoking memories of better days...",
+        "play a cheerful melody on the harmonica, bringing a sense of normalcy, but only for a moment."
+      ]
     },
     "symbol": "-",
     "description": "An industrially produced,yet quality stainless steel harmonica.  Has no strap, but works just fine.",
@@ -30,7 +48,7 @@
   {
     "id": "brass_harmonica",
     "name": { "str_pl": "brass harmonicas", "str": "brass harmonica" },
-	"type": "TOOL",
+    "type": "TOOL",
     "category": "tools",
     "weight": "200 g",
     "color": "brown",
@@ -42,8 +60,26 @@
       "fun": -5,
       "fun_bonus": 2,
       "description_frequency": 20,
-      "player_descriptions": [ "You produce a happy tune on the brass harmonica.", "You whistle on the brass harmonica.", "Holding the brass harmonica, you drop a country-like tune around.", "You train your harmonica skills whistling some simple tunes on the brass harmonica.", "You train your harmonica skills whistling some regular tunes on the brass harmonica.", "You train your harmonica skills whistling some complex tunes on the brass harmonica.", "You play tunes on the brass harmonica resonated with nostalgia, evoking memories of better days...", "You play a cheerful melody on the brass harmonica, bringing a sense of normalcy, but only for a moment." ],
-      "npc_descriptions": [ "produce a happy tune on the brass harmonica.", "whistle on the brass harmonica.", "holding the brass harmonica, drops a country-like tune around", "train their harmonica skills whistling some simple tunes on the brass harmonica.", "train their harmonica skills whistling some regular tunes on the brass harmonica.", "train their harmonica skills whistling some complex tunes on the brass harmonica.", "play tunes on the brass harmonica, resonated with nostalgia, evoking memories of better days...", "play a cheerful melody on the brass harmonica, bringing a sense of normalcy, but only for a moment." ]
+      "player_descriptions": [
+        "You produce a happy tune on the brass harmonica.",
+        "You whistle on the brass harmonica.",
+        "Holding the brass harmonica, you drop a country-like tune around.",
+        "You train your harmonica skills whistling some simple tunes on the brass harmonica.",
+        "You train your harmonica skills whistling some regular tunes on the brass harmonica.",
+        "You train your harmonica skills whistling some complex tunes on the brass harmonica.",
+        "You play tunes on the brass harmonica resonated with nostalgia, evoking memories of better days...",
+        "You play a cheerful melody on the brass harmonica, bringing a sense of normalcy, but only for a moment."
+      ],
+      "npc_descriptions": [
+        "produce a happy tune on the brass harmonica.",
+        "whistle on the brass harmonica.",
+        "holding the brass harmonica, drops a country-like tune around",
+        "train their harmonica skills whistling some simple tunes on the brass harmonica.",
+        "train their harmonica skills whistling some regular tunes on the brass harmonica.",
+        "train their harmonica skills whistling some complex tunes on the brass harmonica.",
+        "play tunes on the brass harmonica, resonated with nostalgia, evoking memories of better days...",
+        "play a cheerful melody on the brass harmonica, bringing a sense of normalcy, but only for a moment."
+      ]
     },
     "symbol": "-",
     "description": "An apparently specially produced, high quality brass harmonica.  Has no strap, but works just fine.",
@@ -56,11 +92,12 @@
     "melee_damage": { "bash": 2 }
   },
   {
+    
   },
   {
     "id": "toy_harmonica",
     "name": { "str_pl": "toy harmonicas", "str": "toy harmonica" },
-	"type": "TOOL",
+    "type": "TOOL",
     "category": "tools",
     "weight": "100 g",
     "color": "brown",
@@ -72,8 +109,26 @@
       "fun": -5,
       "fun_bonus": 2,
       "description_frequency": 20,
-      "player_descriptions": [ "You produce a happy tune on the toy harmonica.", "You whistle on the toy harmonica.", "Holding the toy harmonica, you play a cute tune around.", "You train your harmonica skills whistling some simple tunes on the toy harmonica.", "You train your harmonica skills whistling some regular tunes on the toy harmonica.", "You train your harmonica skills whistling some complex tunes on the toy harmonica.", "You play tunes on the toy harmonica resonated with nostalgia, evoking memories of better days...", "You play a cheerful melody on the toy harmonica, bringing a sense of normalcy, but only for a moment." ],
-      "npc_descriptions": [ "produce a happy tune on the toy harmonica.", "whistle on the toy harmonica.", "holding the toy harmonica, drops a country-like tune around", "train their harmonica skills whistling some simple tunes on the toy harmonica.", "train their harmonica skills whistling some regular tunes on the toy harmonica.", "train their harmonica skills whistling some complex tunes on the toy harmonica.", "play tunes on the toy harmonica, resonated with nostalgia, evoking memories of better days...", "play a cheerful melody on the toy harmonica, bringing a sense of normalcy, but only for a moment." ]
+      "player_descriptions": [
+        "You produce a happy tune on the toy harmonica.",
+        "You whistle on the toy harmonica.",
+        "Holding the toy harmonica, you play a cute tune around.",
+        "You train your harmonica skills whistling some simple tunes on the toy harmonica.",
+        "You train your harmonica skills whistling some regular tunes on the toy harmonica.",
+        "You train your harmonica skills whistling some complex tunes on the toy harmonica.",
+        "You play tunes on the toy harmonica resonated with nostalgia, evoking memories of better days...",
+        "You play a cheerful melody on the toy harmonica, bringing a sense of normalcy, but only for a moment."
+      ],
+      "npc_descriptions": [
+        "produce a happy tune on the toy harmonica.",
+        "whistle on the toy harmonica.",
+        "holding the toy harmonica, drops a country-like tune around",
+        "train their harmonica skills whistling some simple tunes on the toy harmonica.",
+        "train their harmonica skills whistling some regular tunes on the toy harmonica.",
+        "train their harmonica skills whistling some complex tunes on the toy harmonica.",
+        "play tunes on the toy harmonica, resonated with nostalgia, evoking memories of better days...",
+        "play a cheerful melody on the toy harmonica, bringing a sense of normalcy, but only for a moment."
+      ]
     },
     "symbol": "-",
     "description": "A simple, colorful, plastic toy harmonica.  Has no strap, but works just fine.",
@@ -209,7 +264,7 @@
     "id": "nai_flute",
     "type": "TOOL",
     "category": "tools",
-    "name": { "str": "nai flute", "str_pl": "nai flutes"  },
+    "name": { "str": "nai flute", "str_pl": "nai flutes" },
     "description": "This is a Nai, a traditional Romanian pan flute.  It consists of a series of reed tubes of different lengths, arranged in parallel and bound together.  It features a beautiful red stain.",
     "weight": "350 g",
     "volume": "500 ml",
@@ -239,7 +294,7 @@
     "id": "shinobue_flute",
     "type": "TOOL",
     "category": "tools",
-    "name": { "str": "shinobue flute", "str_pl": "shinobue flutes"  },
+    "name": { "str": "shinobue flute", "str_pl": "shinobue flutes" },
     "description": "A simple shinobue, a flute used traditionally in Japanese folk music.  It has 7 holes and requires some training to be played properly.",
     "weight": "300 g",
     "volume": "500 ml",
@@ -269,7 +324,7 @@
     "id": "piri_flute",
     "type": "TOOL",
     "category": "tools",
-    "name": { "str": "piri flute", "str_pl": "piri flutes"  },
+    "name": { "str": "piri flute", "str_pl": "piri flutes" },
     "description": "A simple Korean piri, a double-reed flute made of bamboo, used traditionally in Korean folk music.  It has eight holes and requires some training to be played properly.",
     "weight": "300 g",
     "volume": "500 ml",
@@ -299,7 +354,7 @@
     "id": "norwegian_flute",
     "type": "TOOL",
     "category": "tools",
-    "name": { "str": "Norwegian flute", "str_pl": "Norwegian flutes"  },
+    "name": { "str": "Norwegian flute", "str_pl": "Norwegian flutes" },
     "description": "A simple Norwegian flute called a seljefloyte, with a long history and an important part of Norwegian cultural heritage.  It has six finger holes on the top and two thumb holes on the side and requires some training to be played properly.",
     "weight": "200 g",
     "volume": "250 ml",
@@ -329,7 +384,7 @@
     "id": "wabanaki_flute",
     "type": "TOOL",
     "category": "tools",
-    "name": { "str": "Wabanaki flute", "str_pl": "Wabanaki flutes"  },
+    "name": { "str": "Wabanaki flute", "str_pl": "Wabanaki flutes" },
     "description": "This is a Wabakaki flute, an end-blown flute made from wood and crafted by hand using traditional techniques.  This is Native American musical instrument that originates from the Wabanaki Confederacy, a group of native tribes located in the northeastern United States and eastern Canada.  This simple object is full of culture and history.  You may call it 'm’teoulin' (Penobscot), 'skicin' (Passamaquoddy), 'wolastoqiyik wicihtasiwikewaq' (Maliseet), 'alasutmaqn' (Mi’kmaq) or 'wliwni niwaskw' (Abenaki).",
     "weight": "200 g",
     "volume": "250 ml",
@@ -359,7 +414,7 @@
     "id": "iroquois_flute",
     "type": "TOOL",
     "category": "tools",
-    "name": { "str": "Haudenosaunee flute", "str_pl": "Haudenosaunee flutes"  },
+    "name": { "str": "Haudenosaunee flute", "str_pl": "Haudenosaunee flutes" },
     "description": "This is a traditional cedar wood Haudenosaunee flute, an end-blown flute made from wood and crafted by hand using traditional techniques, traditionally used by the six native tribes from the Iroquois Confederacy.",
     "weight": "200 g",
     "volume": "250 ml",
@@ -652,7 +707,11 @@
         "You score a marching pattern on the snare drum.",
         "You play a solo practice on the snare drum."
       ],
-      "npc_descriptions": [ "score a few hits on the snare drum.", "score a marching pattern on the snare drum.", "play a solo practice on the snare drum." ]
+      "npc_descriptions": [
+        "score a few hits on the snare drum.",
+        "score a marching pattern on the snare drum.",
+        "play a solo practice on the snare drum."
+      ]
     },
     "symbol": "-",
     "description": "A wood and plastic snare drum with a convenient strap so you can wear it around, even when not playing.  It's a good thing there's all sorts of trash around to bang it with.",
@@ -688,7 +747,11 @@
         "You score a marching pattern on the tenor drum.",
         "You play a solo practice on the tenor drum."
       ],
-      "npc_descriptions": [ "score a few hits on the tenor drum.", "score a marching pattern on the tenor drum.", "play a solo practice on the tenor drum." ]
+      "npc_descriptions": [
+        "score a few hits on the tenor drum.",
+        "score a marching pattern on the tenor drum.",
+        "play a solo practice on the tenor drum."
+      ]
     },
     "symbol": "-",
     "description": "A wood and plastic tenor drum with a convenient strap so you can wear it around, even when not playing (even though it is extremely cumbersome). Someone taped their favorite cadence, Jig 2, to the central head.",
@@ -724,7 +787,11 @@
         "You score a marching pattern on the bass drum.",
         "You play a solo practice on the bass drum."
       ],
-      "npc_descriptions": [ "score a few hits on the bass drum.", "score a marching pattern on the snare drum.", "play a solo practice on the bass drum." ]
+      "npc_descriptions": [
+        "score a few hits on the bass drum.",
+        "score a marching pattern on the snare drum.",
+        "play a solo practice on the bass drum."
+      ]
     },
     "symbol": "-",
     "description": "A large wood and plastic bass drum with a convenient strap so you can wear it around, even when not playing (even though wearing it is extremely cumbersome).  It is quite satifying to hit.",
@@ -760,9 +827,11 @@
         "You play a marching pattern with your cymbals.",
         "You plactice some noise-making with your cymbals."
       ],
-      "npc_descriptions": [ "stuck the cymbals together.",
+      "npc_descriptions": [
+        "stuck the cymbals together.",
         "play a marching pattern with the cymbals.",
-        "practice some noise-making with the cymbals." ]
+        "practice some noise-making with the cymbals."
+      ]
     },
     "symbol": "-",
     "description": "A pair of cymbals, that is, two circular metal plates which are struck together to produce sound.  They have straps to be worn on your hands and are not great melee weapons neither defensive gear.",
