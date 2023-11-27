@@ -4,6 +4,7 @@
     "subtype": "collection",
     "id": "charged_firemask"
     "entries": [ { "item": "mask_bunker", "ammo-item": "gasfilter_med", "charges": 7, } ]
+  },
   {
     "type": "item_group",
     "subtype": "collection",
