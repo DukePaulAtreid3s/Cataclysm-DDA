@@ -1927,11 +1927,11 @@
     },
     "flags": [ "USE_UPS", "OVERSIZE", "HOOD", "BELTED", "SOFT", "NO_REPAIR", "RAINPROOF" ],
     "armor": [
-      { "encumbrance": 50, "coverage": 65, "covers": [ "torso", "arm_l", "arm_r" ] },
+      { "encumbrance": 5, "coverage": 65, "covers": [ "torso", "arm_l", "arm_r" ] },
       {
         "covers": [ "leg_l", "leg_r" ],
         "coverage": 65,
-        "encumbrance": 50,
+        "encumbrance": 5,
         "specifically_covers": [ "leg_draped_l", "leg_draped_r" ],
         "layers": [ "BELTED" ]
       }
