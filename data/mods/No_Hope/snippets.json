@@ -20,5 +20,21 @@
         "text": "WANT TO CONTINUE YOUR EDUCATION?  Our educational facilities are top notch and offer courses for individuals at all age groups.  Many new careers are opening up to those who are willing to learn a new craft.  Our library and research labs will keep even the hungriest minds fed!"
       }
     ]
+  },
+  {
+    "type": "snippet",
+    "category": "months_old_news",
+    "text": {
+      "id": "months_old_news_NH1",
+      "text": "EDITORIAL: AI IS GETTING AHEAD OF US.  I saw the new article on unmanned robots with the rest of you, and I have to say I'm not as excited as I am worried.  Even the scientists describing these robots say they don't fully understand how this deep learning stuff works, and now we're putting it in cars?  There are some semi-autonomous AI robots even working in prisons now to quell riots.  It's easy to see how this could get out of hand.  We've all seen the movies."
+    }
+  },
+  {
+    "type": "snippet",
+    "category": "weeks_old_news",
+    "text": {
+      "id": "weeks_old_news_NH1",
+      "text": "COPS IN CRISIS.  Law enforcement officials report increasing numbers of officers are calling in sick, have resigned, or are just not showing up to duty.  A lack of sufficient personnel exacerbates the dangers police on-duty face.  In some cases officers are refusing to respond to dispatches in areas with high levels of violence.  A spokesperson for the Worcester County Sheriff's Office confirmed \"It is no longer feasible for us to jeopardize officer lives in some circumstances.  Instead we can continue to rely upon our state-of-the-art AI-powered robotic units.\""
+    }
   }
 ]
