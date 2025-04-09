@@ -47,6 +47,15 @@
     "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "40": 10, "357sig": 10 } } ]
   },
   {
+    "id": "glock40mag_9",
+    "type": "MAGAZINE",
+    "//": "Specifically stated by the manufacturer that it doesn't support .357 rounds",
+    "name": { "str": "Glock .40 S&W 9-round magazine" },
+    "description": "A compact, light-weight polymer magazine for use with Glock pistols chambered for .40 S&W.  It is designed for the Glock 27 subcompact, but can fit other .40S&W Glocks.  It is not compatible with Glocks chambered in .357.",
+    "copy-from": "glock40mag",
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "40": 10 } ]
+  },
+  {
     "id": "px4_40mag",
     "//": "Audited with ImageJ.  Weight from Beretta 12rd ratio.",
     "looks_like": "glock17_17",
