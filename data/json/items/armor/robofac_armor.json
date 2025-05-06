@@ -203,8 +203,8 @@
       {
         "pocket_type": "MAGAZINE_WELL",
         "rigid": true,
-        "flag_restriction": [ "BATTERY_MEDIUM" ],
-        "default_magazine": "medium_battery_cell"
+        "default_magazine": "anchor_cell_robofac",
+        "item_restriction": [ "anchor_cell_atomic", "anchor_cell_lithium", "anchor_cell_robofac" ]
       }
     ],
     "use_action": {
