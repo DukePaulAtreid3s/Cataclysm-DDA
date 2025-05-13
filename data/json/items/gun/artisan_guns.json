@@ -113,8 +113,8 @@
     "looks_like": "m1911",
     "type": "ITEM",
     "subtypes": [ "GUN" ],
-    "name": { "str": "Dessert Warrior" },
-    "description": "A 1911 pistol chambered in .45 ACP and assembled by Jay.  This one has a threaded barrel, sight mount, underbarrel rail, and an obnoxiously pink donut livery. ",
+    "name": { "str": "1911-J" },
+    "description": "A 1911 pistol chambered in .45 ACP and assembled by Jay.  This one has a threaded barrel, sight mount, and an accessory rail.",
     "ascii_picture": "m1911",
     "weight": "1120 g",
     "volume": "454 ml",
@@ -132,7 +132,7 @@
     "looks_like": "sks",
     "type": "ITEM",
     "subtypes": [ "GUN" ],
-    "name": { "str": "The Stalker's Delight" },
+    "name": { "str": "SKS-J" },
     "description": "A SKS rifle chambered in 7.62x39 and produced by Jay.  It has been modified with rails, an optic mount, and a threaded barrel.",
     "ascii_picture": "sks",
     "weight": "3850 g",
@@ -172,8 +172,8 @@
     "looks_like": "m1a",
     "type": "ITEM",
     "subtypes": [ "GUN" ],
-    "name": { "str": "The Fortunate Son" },
-    "description": "An M1A rifle chambered in .308 and modified by Jay.  This one has been modified with rails, an optic mount, and a threaded barrel.  The Fortunate Son gets its name from its Jungle Camo color scheme.",
+    "name": { "str": "M1A-J" },
+    "description": "An M1A rifle chambered in .308 and modified by Jay.  This one has been modified with rails, an optic mount, and a threaded barrel.",
     "weight": "4230 g",
     "volume": "3970 ml",
     "longest_side": "1126 mm",
@@ -195,5 +195,40 @@
       [ "muzzle", 1 ]
     ],
     "pocket_data": [ { "pocket_type": "MAGAZINE_WELL", "item_restriction": [ "m14mag", "m14smallmag", "m14_makeshiftmag" ] } ]
+  },
+  {
+    "id": "glock_19_bespoke",
+    "copy-from": "gun_base_9mm_semi_pistol",
+    "looks_like": "glock_19",
+    "type": "ITEM",
+    "subtypes": [ "GUN" ],
+    "name": { "str": "Glock 19J" },
+    "description": "A Glock 19, chambered in 9mm and modified by Jay.  It includes a threaded barrel and an optic mount.",
+    "ascii_picture": "glock_19",
+    "weight": "600 g",
+    "volume": "386 ml",
+    "longest_side": "211 mm",
+    "barrel_length": "102 mm",
+    "price": "690 USD",
+    "material": [ "plastic", "steel" ],
+    "ranged_damage": { "damage_type": "bullet", "amount": -1 },
+    "dispersion": 480,
+    "valid_mod_locations": [ [ "barrel", 1 ], [ "mechanism", 2 ], [ "rail", 1 ], [ "sights", 1 ], [ "stock mount", 1 ], [ "muzzle", 1 ] ],
+    "pocket_data": [
+      {
+        "magazine_well": "250 ml",
+        "pocket_type": "MAGAZINE_WELL",
+        "item_restriction": [
+          "glockmag_10",
+          "glock17_10",
+          "glockmag",
+          "glockbigmag",
+          "glock17_17",
+          "glock17_22",
+          "glock_drum_50rd",
+          "glock_drum_100rd"
+        ]
+      }
+    ]
   },
 ]
