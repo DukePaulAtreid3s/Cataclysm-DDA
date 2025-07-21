@@ -1,0 +1,266 @@
+[
+  {
+    "type": "furniture",
+    "id": "amigol1",
+    "name": "bisected humanoid specimen",
+    "description": "You see an elderly woman who has been cleanly bisected lengthwise and encased in nigh-impenetrable translucent resin. On one side, her body is perfectly intact, from her paisley blouse to her face locked in utter agony. The other side is pulled apart like a nesting doll, revealing each seperate layer of skin, muscle, bone, and organs.  Nerves and blood vessels stretch between each slab like macabre spider webs. ",
+    "symbol": "@",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+    }
+  },
+  {
+    "type": "furniture",
+    "id": "amigol2",
+    "name": "ant colony specimen",
+    "description": "An entire ant hill encased in nigh-impenetrable translucent resin, along with the surrounding soil and various detritus.   There are several cockroach sized ants around the enterance, frozen in the middle of their march.  Some are carrying back bits of meat, leaves, and an entire rabbit head.",
+    "symbol": "a",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+    }
+  },
+  {
+    "type": "furniture",
+    "id": "amigol3",
+    "name": "tree specimen",
+    "description": "An entire oak tree encased in nigh-impenetrable translucent resin, from the bottom the roots to the very top of the canopy.",
+    "symbol": "T",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+     }
+    }, 
+    {
+    "type": "furniture",
+    "id": "amigol4",
+    "name": "deconstructed deer specimens",
+    "description": "Several deer carcasess that have been completely disassembled and encased in nigh-impenetrable translucent resin.  Their flesh and connective tissue have been compacted together into a large, fleshy cylinder, while the bones are stacked in a small tower on top of the skins.",
+    "symbol": "d",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+     }
+    },
+    {
+    "type": "furniture",
+    "id": "amigol5",
+    "name": "hospitalized specimen",
+    "description": "A bald, sickly man encased in nigh-impenetrable translucent resin, wearing a blue paper hospital gown.  There are several small incisions on his neck and head, too fine to have been made by man.",
+    "symbol": "@",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+     }
+    },  
+    {
+    "type": "furniture",
+    "id": "amigol6",
+    "name": "invisible specimen",
+    "description": "A seemingly hollow area encased in resin.",
+    "symbol": "0",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+     }
+    },   
+    {
+    "type": "furniture",
+    "id": "amigol7",
+    "name": "shark specimen",
+    "description": "A large hammerhead shark encased in nigh-impenetrable translucent resin.  The scars covering its body make you wonder what would dare challenge such a beast.",
+    "symbol": "^",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+     }
+    },   
+    {
+    "type": "furniture",
+    "id": "amigol8",
+    "name": "bear specimen",
+    "description": "An entire black bear encased in nigh-impenetrable translucent resin.  Its claws and teeth are covered in a mix of dried blood and green fluid.",
+    "symbol": "B",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+     }
+    },   
+    {
+    "type": "furniture",
+    "id": "amigol9",
+    "name": "rioter specimen",
+    "description": "A young man wearing a baseball cap, jeans, a tank top, sneakers and a homemade mask, trapped in nigh-impenetrable translucent resin.  His clothes are stained pink, and he appears to have multiple gunshot wounds on his torso.",
+    "symbol": "@",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+     }
+    },
+    {
+    "type": "furniture",
+    "id": "amigol",
+    "name": " specimen",
+    "description": "An entire oak tree encased in nigh-impenetrable translucent resin, from the bottom the roots to the very top of the canopy.",
+    "symbol": "T",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+     }
+    },
+    {
+    "type": "furniture",
+    "id": "amigol",
+    "name": " specimen",
+    "description": "An entire oak tree encased in nigh-impenetrable translucent resin, from the bottom the roots to the very top of the canopy.",
+    "symbol": "T",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+     }
+    }, 
+    {
+    "type": "furniture",
+    "id": "amigol",
+    "name": " specimen",
+    "description": "An entire oak tree encased in nigh-impenetrable translucent resin, from the bottom the roots to the very top of the canopy.",
+    "symbol": "T",
+    "color": "pink",
+    "move_cost_mod": 0,
+    "coverage": 75,
+    "required_str": -1,
+    "flags": [  "TRANSPARENT", "FREE_TO_EXAMINE"  ],
+    "max_volume": "125 ml",
+    "bash": {
+      "str_min": 75,
+      "str_max": 300,
+      "sound": "boom",
+      "sound_fail": "whack!",
+      "items": [
+        { "item": "resin_chunk", "count": [ 2, 5 ] }
+      ]
+     }
+    }
+]
