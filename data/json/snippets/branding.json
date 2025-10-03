@@ -93,5 +93,18 @@
         "text": "It's covered in cartoon kittens playfully competing over balls of yarn.  One kitten teeters precariously as if it's about to fall off the edge of the drawing."
       }
     ]
-  }
+  },
+  {
+    "type": "snippet",
+    "category": "<cig_brand>",
+    "//": "Various fake brands of tobacco products, loosely based on real ones.",
+    "text": [
+      {
+        "id": "cig_brand_1",
+        "text": "A pack of Dromedary cigarettes, bearing the image of Dromedary Dan.  It claims to offer a smoke "smoother than the desert wind"."
+      },
+      {
+        "id": "cig_brand_2",
+        "text": "A pack of Premium Amarillo cigarettes, established in Mexico City in 1841. The packaging shows a beautiful desert sunrise."
+      }
 ]
