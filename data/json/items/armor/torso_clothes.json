@@ -2298,6 +2298,20 @@
         "weight": 24
       },
       {
+        "id": "coyote_tshirt"
+        "name": { "str:": "coyote brown t-shirt" },
+        "description": "This one is colored coyote brown, or tan."
+        "append": true,
+        "weight": 24
+      },
+      {
+        "id": "olive_tshirt"
+        "name": { "str:": "olive drab t-shirt" },
+        "description": "This one is olive drab."
+        "append": true,
+        "weight": 24
+      },
+      {
         "id": "3dog_tshirt",
         "name": { "str": "3 Wolf Moon t-shirt" },
         "color": "magenta",
