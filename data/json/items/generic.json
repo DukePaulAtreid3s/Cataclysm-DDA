@@ -2970,7 +2970,7 @@
     "color": "yellow",
     "name": { "str": "plastic card" },
     "ascii_picture": "cashcard",
-    "description": "A plastic card, the basis for many different varieties of card.  If you're seeing this one, howver, there's a problem.",
+    "description": "A plastic card, the basis for many different varieties of card.  If you're seeing this one, however, there's a problem.",
     "price": "10 USD",
     "extend": { "flags": [ "TRADER_AVOID" ] }
   },

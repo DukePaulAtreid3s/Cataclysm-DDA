@@ -759,5 +759,39 @@
       "This will haunt you in your dreams.",
       "You try to look away, but this gruesome image will stay on your mind for some time."
     ]
+  },
+  {
+    "type":"snippet",
+    "category": "<credit_card_normal>",
+    "text": [
+      {
+        "id": "credit_card1",
+        "text": "This is a plain VISA credit card, nothing special."
+      },
+      {
+        "id": "credit_card2",
+        "text": "This is a Pear card, linked to the popular phone brand."
+      },
+      {
+        "id": "credit_card3",
+        "text": "This is a Pursuit Indigo card, it supposedly had good cash back."
+      },
+      {
+        "id": "credit_card4",
+        "text": "This is a Foodplace Electronic Loan Dispenser™, allowing any consumer to consume beyond the constraint of their bank account."
+      },
+      {
+        "id": "credit_card5",
+        "text": "This is a credit card issued by a local credit union, once good for building credit."
+      },
+      {
+        "id": "credit_card6",
+        "text": "This is a Township Cash Card, it had a flat rate for cash back."
+      },
+      {
+        "id": "credit_card7",
+        "text": "This is a Taxico-branded credit card, it was supposed to save you money at their gas stations."
+      }
+    ]
   }
 ]
